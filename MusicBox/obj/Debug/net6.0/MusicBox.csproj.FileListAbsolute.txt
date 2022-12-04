@@ -1,0 +1,15 @@
+D:\Code Academy\Fullstack backend\MusicBox\MusicBox\MusicBox\bin\Debug\net6.0\MusicBox.exe
+D:\Code Academy\Fullstack backend\MusicBox\MusicBox\MusicBox\bin\Debug\net6.0\MusicBox.deps.json
+D:\Code Academy\Fullstack backend\MusicBox\MusicBox\MusicBox\bin\Debug\net6.0\MusicBox.runtimeconfig.json
+D:\Code Academy\Fullstack backend\MusicBox\MusicBox\MusicBox\bin\Debug\net6.0\MusicBox.dll
+D:\Code Academy\Fullstack backend\MusicBox\MusicBox\MusicBox\bin\Debug\net6.0\MusicBox.pdb
+D:\Code Academy\Fullstack backend\MusicBox\MusicBox\MusicBox\obj\Debug\net6.0\MusicBox.csproj.AssemblyReference.cache
+D:\Code Academy\Fullstack backend\MusicBox\MusicBox\MusicBox\obj\Debug\net6.0\MusicBox.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Academy\Fullstack backend\MusicBox\MusicBox\MusicBox\obj\Debug\net6.0\MusicBox.AssemblyInfoInputs.cache
+D:\Code Academy\Fullstack backend\MusicBox\MusicBox\MusicBox\obj\Debug\net6.0\MusicBox.AssemblyInfo.cs
+D:\Code Academy\Fullstack backend\MusicBox\MusicBox\MusicBox\obj\Debug\net6.0\MusicBox.csproj.CoreCompileInputs.cache
+D:\Code Academy\Fullstack backend\MusicBox\MusicBox\MusicBox\obj\Debug\net6.0\MusicBox.dll
+D:\Code Academy\Fullstack backend\MusicBox\MusicBox\MusicBox\obj\Debug\net6.0\refint\MusicBox.dll
+D:\Code Academy\Fullstack backend\MusicBox\MusicBox\MusicBox\obj\Debug\net6.0\MusicBox.pdb
+D:\Code Academy\Fullstack backend\MusicBox\MusicBox\MusicBox\obj\Debug\net6.0\MusicBox.genruntimeconfig.cache
+D:\Code Academy\Fullstack backend\MusicBox\MusicBox\MusicBox\obj\Debug\net6.0\ref\MusicBox.dll
