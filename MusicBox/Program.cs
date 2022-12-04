@@ -11,7 +11,7 @@ namespace MusicBox
         static void Main(string[] args)
         {
             AllMusic = new List<Music>();
-
+            Fill();
            
             bool breakpoint = true;
             Playlist playlist = new Playlist();
@@ -120,6 +120,26 @@ namespace MusicBox
                 Console.WriteLine("All Music-de mahni yoxdur!");
             }
             Console.WriteLine("-----------------------------------------------------------");
+        }
+
+
+        static void Fill()
+        {
+            Dictionary<string, string> dict = new Dictionary<string, string>()
+            {
+                { "Hiss", "Karma"},
+                {"Canbay & Wolker", "Cubuklu" },
+                {"Else", "Paris" },
+                {"Cakal","Imdat" },
+            };
+
+            foreach (var item in dict)
+            {
+                AllMusic.Add(new Music(item.Key, item.Value, 30));
+            }
+
+           
+           
         }
 
         

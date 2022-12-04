@@ -34,7 +34,7 @@ namespace MusicBox.Models
             {
                 Playlists.Add(music);
 
-                Console.WriteLine($"{music.ArtistName}-{music.Name} PlayList siyahisina elave olundu");
+                Console.WriteLine($"{music.ArtistName}- {music.Name} PlayList siyahisina elave olundu");
 
             }
         }
@@ -123,6 +123,7 @@ namespace MusicBox.Models
             if (LastMusic.Count > 0)
             {
                 int k = 1;
+                
                 foreach (Music music in LastMusic)
                 {
                     Console.WriteLine($"{k}.{music.ArtistName}- {music.Name}");
